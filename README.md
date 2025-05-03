@@ -3,6 +3,8 @@ TickTogether is a Chrome extension that replaces the default new tab page with a
 
 This aligns with Chrome Web Store's single-purpose policy, as the extension focuses solely on enhancing the new tab page to display time zone information, without introducing unrelated functionalities.
 
+![alt text](https://github-production-user-asset-6210df.s3.amazonaws.com/2522665/440148452-8748e283-68b4-4571-8d21-b762b2df72fc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250503T221101Z&X-Amz-Expires=300&X-Amz-Signature=4240c033bdfc9dbc13a38c8d387a520bdebb43c4f20805a05fbdd43f8226b446&X-Amz-SignedHeaders=host "TickTogether")
+
 
 ## Requested Permission: storage
 
